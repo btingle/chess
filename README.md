@@ -1,2 +1,3 @@
 # chess
-3D Chess game made using OpenGL
+3D Chess game made in C using OpenGL
+
